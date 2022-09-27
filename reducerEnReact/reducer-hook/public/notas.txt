@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=Qisq6I_buBo
+
+-------------
+ver reflux como otra librería .-
+------
+hook redux es una función pura que devuelve un valor
+y toda la lógica es capaz de resolver un solo procesamiento,
+no genera efectos secundarios ni interna o externamiente
+SIEMPRE RETORNA UN VALOR QUE ES EL ESTADO DE LA APLICACIÓN.-
+NO PODEMOS USAR USEEFFECT .-
+TPCO SE PUEDEN HACER DENTRO DE ESTA FUNCIÓN COSAS
+ASÍNCRONAS.-
+
+------------------
+para carrito https://www.youtube.com/watch?v=nrC8sr3WsoM&t=250s
+
+------------
+acordarse que ahora se puede poner 8 dïgitos en el 
+color para dar con los últimos la opacidad.-
+-----
